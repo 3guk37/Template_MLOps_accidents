@@ -1,0 +1,19 @@
+[project]
+name = "template-mlops-accidents"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "click>=8.3.1",
+    "coverage>=7.13.5",
+    "dvc>=3.67.0",
+    "flake8>=7.3.0",
+    "imbalanced-learn>=0.14.1",
+    "joblib>=1.5.3",
+    "numpy>=2.4.3",
+    "pandas>=3.0.1",
+    "pathlib>=1.0.1",
+    "scikit-learn>=1.8.0",
+    "sphinx>=9.1.0",
+]
